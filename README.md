@@ -31,16 +31,16 @@
 ## 💻 My Projects
 
 - **VNUHCM-UNIGATE [Team Project, Web Dev 2025 Competition]**  
-  Smart admission portal for VNU-HCM Competency Assessment Exam.  
-  Tech: ReactJS, Tailwind, FastAPI, PostgreSQL, NoSQL, REST API, Axios, Azure Database. 
+  Description: Smart admission portal for VNU-HCM Competency Assessment Exam.  
+  Tech: ReactJS, Tailwind, FastAPI, PostgreSQL, NoSQL, REST API, Axios, Azure Database.
   👉 [FE](https://github.com/KhanhVy-r2/VNUHCM-UNIGATE.git) [BE](https://github.com/Kamekain/VNUHCM-UNIGATE.git)  
 
 - **UNIGATE_REVAMP [Personal Project: Redesign & Refactor]**  
-  Rebuilt and modernized the frontend with ReactJS + Tailwind + Gemini API.  
+  Description: Rebuilt and modernized the frontend with ReactJS + Tailwind + Gemini API.  
   👉 [Repository](https://github.com/thanhnguyen810200556/unigate-revamp)  
 
 - **Web Attack Detection System [School Project]** 
-  Web app detecting SQL Injection via Regex + Random Forest ML model.  
+  Description: Web app detecting SQL Injection via Regex + Random Forest ML model.  
   👉 [Repository](https://github.com/thanhnguyen810200556/sql-injection-detector) 
 
 ---
