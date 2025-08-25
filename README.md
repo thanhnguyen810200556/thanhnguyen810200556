@@ -13,11 +13,13 @@
 
 - 🌱 Currently learning **React**, **HTML/CSS**, **JavaScript**, and UI/UX principles
   
-- 🚀 Exploring modern frontend tools like **TailwindCSS**, **Figma**, and **Framer Motion**
+- 🚀 Exploring modern frontend tools like **TailwindCSS**, **Figma**
   
 - 🧩 Interested in full-stack development — planning to dive into **Backend** with **Node.js**, **Express**, and **Databases**
   
 - 🌐 Passionate about building beautiful, user-friendly web interfaces
+  
+- 🎯 Hobbies: 📚 Reading | 🎮 Gaming | 🏐 Volleyball | 🎵 Listening to Music
 
 ---
 
@@ -27,6 +29,19 @@
 ---
 
 ## 💻 My Projects
+
+- **VNUHCM-UNIGATE [Team Project, Web Dev 2025 Competition]**  
+  Smart admission portal for VNU-HCM Competency Assessment Exam.  
+  Tech: ReactJS, Tailwind, FastAPI, PostgreSQL, NoSQL, REST API, Axios, Azure Database. 
+  👉 [FE](https://github.com/KhanhVy-r2/VNUHCM-UNIGATE.git) [BE](https://github.com/Kamekain/VNUHCM-UNIGATE.git)  
+
+- **UNIGATE_REVAMP [Personal Project: Redesign & Refactor]**  
+  Rebuilt and modernized the frontend with ReactJS + Tailwind + Gemini API.  
+  👉 [Repository](https://github.com/thanhnguyen810200556/unigate-revamp)  
+
+- **Web Attack Detection System [School Project]** 
+  Web app detecting SQL Injection via Regex + Random Forest ML model.  
+  👉 [Repository](https://github.com/thanhnguyen810200556/sql-injection-detector) 
 
 ---
 
@@ -48,10 +63,8 @@
 ---
 
 ## 📫 Let's Connect
-
-- ✉️ Email: thanhngueyn20051457@gmail.com
-  
-- 🌐 GitHub: https://github.com/thanhnguyen810200556
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100044397773633)  
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thanhngueyn20051457@gmail.com)  
 
 ---
 
