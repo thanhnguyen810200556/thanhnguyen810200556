@@ -5,11 +5,11 @@
 
 🏫 **University of Information Technology – VNUHCM (UIT)**  
 
-🎯 Focused on **Frontend Web Development**
+🎯 Currently focused on **Frontend Web Development**
 
 ---
 
-## 💡 About Me
+# 💡 About Me
 
 - 🌱 Currently learning **React**, **HTML/CSS**, **JavaScript**, and UI/UX principles
   
@@ -28,7 +28,7 @@
 
 ---
 
-## 💻 My Projects
+# 💻 My Projects
 
 - **VNUHCM-UNIGATE [Team Project, Web Dev 2025 Competition]**  
   Description: Smart admission portal for VNU-HCM Competency Assessment Exam.  
@@ -53,7 +53,7 @@
 
 ---
 
-## 🎯 Goals
+# 🎯 Goals
 
 - Master responsive design and animation with CSS/Framer Motion
   
